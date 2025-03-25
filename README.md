@@ -9,5 +9,5 @@ As part of our **SYSARCH32 Midterm Project**, we integrated **Git and GitHub** i
 ### **1️⃣ Clone the Repository**
 To get a copy of this project, run:  
 ```bash
-git clone https://github.com/katugnawsac2/your-repository.git
+git clone https://github.com/username/your-repository.git
 cd your-repository
