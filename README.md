@@ -1,13 +1,11 @@
-# SYSARCH32 Midterm Project - MVC CRUD Application with GitHub Integration
+# 🏗 SYSARCH32 Midterm Project - Git Workflow Integration  
 
-## 📌 Project Overview
-This project is an MVC-based CRUD application designed for managing user's database and departments database.  
-As part of our **SYSARCH32 Midterm Project**, we integrated **Git and GitHub** into our workflow, following industry best practices for collaboration, version control, and task management.  
+## 📌 Project Overview  
+This project is an MVC-based CRUD application developed as part of the SYSARCH32 midterm exam. The objective is to integrate Git and GitHub into our workflow using proper version control techniques, including branching, pull requests, issue tracking, and team collaboration.
 
-## 🔧 Setup Instructions  
+## 🚀 Steps to Clone and Run the Application  
 
 ### **1️⃣ Clone the Repository**
-To get a copy of this project, run:  
 ```bash
-git clone https://github.com/username/your-repository.git
-cd your-repository
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+cd YOUR-REPO
