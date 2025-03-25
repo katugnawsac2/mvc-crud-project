@@ -1,0 +1,14 @@
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\x64\Debug\Database.mdb
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\x64\Debug\SysArchPrelim.exe.config
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\x64\Debug\SysArchPrelim.exe
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\x64\Debug\SysArchPrelim.pdb
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\x64\Debug\Guna.UI2.dll
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\x64\Debug\SysArchPrelim.csproj.AssemblyReference.cache
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\x64\Debug\SysArchPrelim.Form1.resources
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\x64\Debug\SysArchPrelim.Form2.resources
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\x64\Debug\SysArchPrelim.Properties.Resources.resources
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\x64\Debug\SysArchPrelim.csproj.GenerateResource.cache
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\x64\Debug\SysArchPrelim.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\x64\Debug\SysArchPrelim.csproj.CopyComplete
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\x64\Debug\SysArchPrelim.exe
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\x64\Debug\SysArchPrelim.pdb

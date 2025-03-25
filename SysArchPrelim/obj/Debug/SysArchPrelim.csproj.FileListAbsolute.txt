@@ -1,0 +1,28 @@
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\Database.mdb
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\SysArchPrelim.exe.config
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\SysArchPrelim.exe
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\SysArchPrelim.pdb
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\Guna.UI2.dll
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.csproj.AssemblyReference.cache
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.Form1.resources
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.Form2.resources
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.Properties.Resources.resources
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.csproj.GenerateResource.cache
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.csproj.CoreCompileInputs.cache
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchP.E825E72D.Up2Date
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.exe
+C:\Users\Jonwyl\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.pdb
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\Database.mdb
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\SysArchPrelim.exe.config
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\SysArchPrelim.exe
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\SysArchPrelim.pdb
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\bin\Debug\Guna.UI2.dll
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.csproj.AssemblyReference.cache
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.Form1.resources
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.Form2.resources
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.Properties.Resources.resources
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.csproj.GenerateResource.cache
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.csproj.CopyComplete
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.exe
+C:\Users\Joshua Therence\Desktop\SysArchPrelim\SysArchPrelim\obj\Debug\SysArchPrelim.pdb
